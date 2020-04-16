@@ -2,7 +2,7 @@
 
 class Person
 
-  def name=(personsname)
+  def name=(personsname="Singer")
     @name = personsname
   end
 
